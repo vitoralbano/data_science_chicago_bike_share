@@ -102,3 +102,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+src/chicago.csv
+src/data_example.rar
