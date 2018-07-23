@@ -1,7 +1,7 @@
 This is the first deliverable project from the Data Science I course on the Udacity's platform
 
 # Explore data from shared bikes in Chicago
-This project consists on solving these twelve questions below using the data available on the course
+This project consists on solving these twelve questions below using the dataset.
 
 1. Print the data_list second line
 2. Print the data_list first 20 lines
